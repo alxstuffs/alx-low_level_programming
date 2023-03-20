@@ -28,7 +28,6 @@ main(void)
 					putchar(',');
 					putchar(' ');
 				}
-	
 			}
 		}
 	}
